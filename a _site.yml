@@ -6,9 +6,9 @@ navbar:
     - text: "Overview"
       href: index.html
     - text: "Weekly-Schedule"
-      href: Weeklyschedule.html
+      href: Weekly-Schedule.html
     - text: "Meetups"
-      href: meetups.html
+      href: Meetups.html
     - text: "Slack"
       href: https://sps.cuny.edu/academics/graduate/master-science-data-science-ms
     - text: "Blackboard"
