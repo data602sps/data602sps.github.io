@@ -1,0 +1,17 @@
+name: "DATA 602 Advanced Programming"
+output_dir: "."
+navbar:
+  title: "DATA 602 - Advanced Programming Techniques"
+  left:
+    - text: "Overview"
+      href: index.html
+    - text: "Weekly Schedule"
+      href: schedule.html
+    - text: "Meetups"
+      href: assignments.html
+    - text: "Slack"
+      href: https://sps.cuny.edu/academics/graduate/master-science-data-science-ms
+    - text: "Blackboard"
+      href: https://sps.cuny.edu/academics/graduate/master-science-data-science-ms
+    - text: "CUNY"
+      href: https://sps.cuny.edu/academics/graduate/master-science-data-science-ms
