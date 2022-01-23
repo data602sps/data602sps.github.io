@@ -6,7 +6,7 @@ navbar:
     - text: "Overview"
       href: index.html
     - text: "Weekly-Schedule"
-      href: schedule.html
+      href: Weeklyschedule.html
     - text: "Meetups"
       href: meetups.html
     - text: "Slack"
